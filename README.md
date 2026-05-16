@@ -46,6 +46,7 @@ Tenho 18 anos e sou um completo apaixonado por tecnologia, inovação e pelo uni
 
 ### 📊 Estatísticas
 
-| Componente | Linguagem | Progresso | Status |
-| :--- | :---: | :---: | :--- |
+| Componente | Linguagem/Tecnologia | Progresso | Status |
+| :--- | :--- | :---: | :--- |
 | **Desenvolvimento do Backend** | Python | `▬▬▬─────────` 30% | 🟡 Em Progresso |
+| **Banco de Dados** | SQL / NoSQL | `▬▬──────────` 25% | 🟡 Em Progresso |
