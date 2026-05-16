@@ -11,7 +11,7 @@ Tenho 18 anos e sou um completo apaixonado por tecnologia, inovação e pelo uni
 * 🧠 Interessado em Inteligência Artificial, desenvolvimento de sistemas e análise de dados.
 * 💡 Buscando constantemente aplicar conceitos de **Álgebra Linear** e boas práticas de **Engenharia de Software** na criação de códigos eficientes e escaláveis.
 
-<a href="https://www.linkedin.com/in/davi-teles" target="_blank">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/davi-teles-3083aa40b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 50px;">
 </a>
 
