@@ -56,3 +56,16 @@ Tenho 18 anos e sou um completo apaixonado por tecnologia, inovação e pelo uni
 | :--- | :--- | :---: | :--- |
 | **Desenvolvimento do Backend** | Python | `▬▬▬─────────` 30% | 🟡 Em Progresso |
 | **Banco de Dados** | SQL / NoSQL | `▬▬──────────` 25% | 🟡 Em Progresso |
+
+
+## 🚀 Projetos em Destaque
+
+### 📊 Análise Exploratória: Emendas e Transparência Pública
+Projeto prático de EDA (Exploratory Data Analysis) focado em emendas públicas e transparência governamental.
+
+* **🔍 Limpeza e Estruturação:** Tratamento de bases governamentais complexas.
+* **💡 Insights e Padrões:** Extração de inteligência de dados e busca por anomalias.
+* **📢 Data Storytelling:** Comunicação clara e visual dos resultados obtidos.
+
+```yaml
+Stack: Python · Pandas · Jupyter Notebook · EDA
