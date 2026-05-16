@@ -4,22 +4,24 @@
 
 # Olá, eu sou o Davi Teles! 👋
 
-Tenho 18 anos e sou um completo apaixonado por tecnologia, inovação e pelo universo dos dados. Atualmente, estou cursando **Ciência de Dados e Machine Learning no CEUB**, focado em traduzir dados brutos em soluções inteligentes e modelos preditivos.
+Tenho 18 anos e sou um completo apaixonado por tecnologia, inovação e pelo universo dos dados. Atualmente, estou cursando **Ciência de Dados e Machine Learning no CEUB**, focado em conectar fundamentos matemáticos, engenharia e programação para construir soluções inteligentes.
 
 ## 🚀 Sobre Mim
 * 🎓 Graduando em **Ciência de Dados e Machine Learning** no CEUB.
-* 🧠 Interessado em Inteligência Artificial, análise exploratória de dados e automação com Python.
-* 💡 Buscando constantemente aprender novas tecnologias e resolver problemas reais através do código.
+* 🧠 Interessado em Inteligência Artificial, desenvolvimento de sistemas e análise de dados.
+* 💡 Buscando constantemente aplicar conceitos de **Álgebra Linear** e boas práticas de **Engenharia de Software** na criação de códigos eficientes e escaláveis.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas em Evolução
-| Linguagem/Área | Nível de Estudo |
-| :--- | :--- |
-| **Python** | 🐍 Dominando a base e bibliotecas de dados |
-| **Machine Learning** | 🤖 Conceitos fundamentais e algoritmos |
-| **Ciência de Dados** | 📊 Estatística e manipulação de dados |
----
+### 🛠️ Competências e Áreas de Estudo
+
+| Área | Foco de Estudo | Status |
+| :--- | :--- | :---: |
+| 🐍 **Programação** | Lógica de programação, automações e scripts robustos com Python. | 🟡 Em Progresso |
+| 🗄️ **Banco de Dados** | Modelagem de dados, consultas e estruturação (SQL / NoSQL). | 🟡 Em Progresso |
+| ⚙️ **Engenharia de Software** | Arquitetura de sistemas, padrões de projeto e ciclo de vida do software. | 🟡 Em Progresso |
+| 📐 **Álgebra Linear** | Base matemática essencial para algoritmos de IA e Machine Learning. | 🟡 Em Progresso |
+| 🤖 **Machine Learning** | Modelagem preditiva, análise estatística e algoritmos inteligentes. | 🟡 Em Progresso |
 
 ### 🤖 Linguagens e Tecnologias
 
