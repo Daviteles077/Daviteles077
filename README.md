@@ -1,11 +1,26 @@
-# Davi Teles
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Davi%20Teles&fontSize=70&animation=fadeIn&theme=tokyonight" alt="Banner Davi Teles" />
 
-**`Estudante de ciência de dados e machine learning`**
+  <p align="center">
+    <img src="https://img.shields.io/badge/Curso-Ciência%20de%20Dados%20%26%20ML-blue?style=for-the-badge&logo=python&logoColor=white" alt="Curso">
+    <img src="https://img.shields.io/badge/Instituição-CEUB-brightgreen?style=for-the-badge" alt="CEUB">
+  </p>
+  
+  <p align="center">
+    <a href="https://linkedin.com/in/SEU_USER_AQUI" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:SEU_EMAIL_AQUI@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
+</div>
+
+---
 
 # Olá, eu sou o Davi Teles! 👋
 
 Tenho 18 anos e sou um completo apaixonado por tecnologia, inovação e pelo universo dos dados. Atualmente, estou cursando **Ciência de Dados e Machine Learning no CEUB**, focado em conectar fundamentos matemáticos, engenharia e programação para construir soluções inteligentes.
-
 ## 🚀 Sobre Mim
 * 🎓 Graduando em **Ciência de Dados e Machine Learning** no CEUB.
 * 🧠 Interessado em Inteligência Artificial, desenvolvimento de sistemas e análise de dados.
