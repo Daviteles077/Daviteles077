@@ -37,4 +37,4 @@
 <br/>
 
 ### 📊 Estatísticas
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DaviTeles077?cardType=github&theme=Padr%C3%A3o&fontFamily=&showIcons=Verdade&preferLogin=falso&Points.ContributedToNotOwnerRepositories=0&Points.ContributedToOwnRepositories=5&Points.CreatedRepositories=5&Points.DirectStars=0&Points.IndirectStars=0&Points.Issues=0&Points.PullRequests=5&Points.PullRequestsToAnotherRepositories=0&Points.CommitsToMyRepositories=5&Points.CommitsToAnotherRepositories=5&Points.ContributedTo=5)](https://git.io/awesome-stats-card)
+<img src="https://github-readme-stats.vercel.app/api?username=Daviteles077&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Daviteles077's GitHub Stats" />
