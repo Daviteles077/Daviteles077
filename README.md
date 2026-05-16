@@ -37,4 +37,7 @@
 <br/>
 
 ### 📊 Estatísticas
-<img src="https://github-readme-stats.vercel.app/api?username=Daviteles077&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Daviteles077's GitHub Stats" />
+
+| Componente | Linguagem | Progresso | Status |
+| :--- | :---: | :---: | :--- |
+| **Desenvolvimento do Backend** | Python | `▬▬▬─────────` 30% | 🟡 Em Progresso |
