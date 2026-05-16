@@ -73,3 +73,14 @@ Projeto prático de EDA (Exploratory Data Analysis) focado em emendas públicas 
 
 ```yaml
 Stack: Python · Pandas · Jupyter Notebook · EDA
+
+
+## 💡 Competências Interpessoais (Soft Skills)
+
+Uma combinação de habilidades comportamentais e estratégicas que potencializam a entrega de resultados e a colaboração em equipe:
+
+* **🎙️ Oratória & 📋 Data Storytelling:** Capacidade de traduzir dados complexos em narrativas visuais claras, conectando métricas técnicas aos objetivos de negócio.
+* **🚀 Fast Learner:** Alta capacidade de adaptação e rápida curva de aprendizado para novas ferramentas, metodologias e regras de negócio.
+* **🎯 Proatividade:** Postura orientada a resultados, identificando oportunidades de melhoria e antecipando soluções para potenciais problemas.
+* **🤝 Comunicação Assertiva:** Articulação eficiente, empática e colaborativa entre equipes técnicas, stakeholders e áreas de negócios.
+* **🧠 Pensamento Crítico:** Abordagem analítica para questionar dados, validar hipóteses e garantir a confiabilidade das análises entregues.
