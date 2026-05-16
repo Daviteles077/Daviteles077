@@ -15,6 +15,9 @@ Tenho 18 anos e sou um completo apaixonado por tecnologia, inovação e pelo uni
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 50px;">
 </a>
 
+<a href="https://www.instagram.com/davteles/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 50px;">
+</a>
 
 ### 🛠️ Competências e Áreas de Estudo
 
