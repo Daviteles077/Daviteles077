@@ -51,12 +51,16 @@ Tenho 18 anos e sou um completo apaixonado por tecnologia, inovação e pelo uni
 <br/>
 
 ### 📊 Estatísticas
+## ⚙️ Competências & Habilidades
 
-| Componente | Linguagem/Tecnologia | Progresso | Status |
-| :--- | :--- | :---: | :--- |
-| **Desenvolvimento do Backend** | Python | `▬▬▬─────────` 30% | 🟡 Em Progresso |
-| **Banco de Dados** | SQL / NoSQL | `▬▬──────────` 25% | 🟡 Em Progresso |
-
+### 📈 Hard Skills
+```text
+🧮 Matemática & Estatística Aplicada    ████████████░░░░░░░░  60%
+💻 Python & Pandas                      ███████████░░░░░░░░░  55%
+🔎 EDA (Análise Exploratória de Dados)  ██████████░░░░░░░░░░  50%
+⚙️ ETL (Extração, Transformação, Carga) █████████░░░░░░░░░░░  45%
+🧠 Lógica de Programação                ████████████░░░░░░░░  60%
+🎙️ Oratória & Data Storytelling         █████████████░░░░░░░  65%
 
 ## 🚀 Projetos em Destaque
 
