@@ -13,21 +13,28 @@
 <a href="https://www.instagram.com/davteles/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 50px;">
 ---
-<a href="https://daviteles077.github.io/portifolio-projeto-final-Bootcamp/" 
-   target="_blank" 
-   style="display: inline-block; 
-          padding: 16px 40px; 
-          font-size: 18px; 
-          font-weight: bold; 
-          color: #ffffff; 
-          background: linear-gradient(135deg, #ff416c, #ff4b2b); 
-          border-radius: 8px; 
-          text-decoration: none; 
-          box-shadow: 0 8px 20px rgba(255, 65, 108, 0.3); 
-          text-transform: uppercase; 
-          letter-spacing: 1px;">
-   🔥 Ver Projeto Final do Bootcamp
-</a>
+    <div style="display: flex; justify-content: center; align-items: center; padding: 20px;">
+    
+    <a href="https://daviteles077.github.io/portifolio-projeto-final-Bootcamp/" 
+       target="_blank" 
+       style="display: inline-block; 
+              padding: 16px 40px; 
+              font-size: 18px; 
+              font-weight: bold; 
+              color: #ffffff; 
+              background: linear-gradient(135deg, #ff416c, #ff4b2b); 
+              border-radius: 8px; 
+              text-decoration: none; 
+              box-shadow: 0 8px 20px rgba(255, 65, 108, 0.3); 
+              text-transform: uppercase; 
+              letter-spacing: 1px;
+              transition: transform 0.2s;"
+       onmouseover="this.style.transform='scale(1.05)'"
+       onmouseout="this.style.transform='scale(1)'">
+        🔥 Ver Projeto Final do Bootcamp
+    </a>
+
+</div>
 
 
 
