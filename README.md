@@ -14,28 +14,19 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 8px; margin: 0 5px;">
     </a>
   </p>
+<div align="center">
+  <div style="background-color: #1a1a1a; padding: 24px; border-radius: 12px; border: 1px solid #333; max-width: 400px;">
+    <h3 style="color: #ffffff; margin-top: 0;">🚀 Projeto Final do Bootcamp</h3>
+    <p style="color: #888888; font-size: 14px;">Clique no botão abaixo para visualizar o resultado final no navegador.</p>
+    <a href="https://daviteles077.github.io/portifolio/" target="_blank" style="background: linear-gradient(135deg, #ff416c, #ff4b2b); color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">
+      ABRIR PORTFÓLIO
+    </a>
+  </div>
+</div>
 
-</head>
-<body style="background-color: #f4f4f9; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
-
- <div style="background: #ffffff; 
-                width: 380px; 
-                padding: 30px; 
-                border-radius: 16px; 
-                box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08); 
-                text-align: center; 
-                border: 1px solid #e1e1e7;
-                font-family: system-ui, -apple-system, sans-serif;">
-        
-  <div style="font-size: 40px; margin-bottom: 15px;">🚀</div>
-        
-  <h2 style="color: #1a1a1a; margin: 0 0 10px 0; font-size: 22px; font-weight: 700;">
-            Bootcamp Concluído!
-  </h2>
+  
        
-  <p style="color: #666666; font-size: 14
-</div>   
-   
+ 
 
 </div>
 
