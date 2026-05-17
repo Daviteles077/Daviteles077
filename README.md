@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&pause=2000&color=007ACC&center=true&vCenter=true&width=700&height=60&lines=DAVI+TELES" alt="Davi Teles" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=8E95A5&center=true&vCenter=true&width=700&height=50&lines=Data+Science+Student;Machine+Learning+Enthusiast;Transformando+Dados+em+Solu%C3%A7%C3%B5es" alt="Tech Stack" />
-</p>
-
 
 
 <div align="center">
