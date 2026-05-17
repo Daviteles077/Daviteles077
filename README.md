@@ -14,18 +14,39 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 50px;">
 ---
     <div style="display: flex; justify-content: center; align-items: center; padding: 20px;">
-    
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Davi%20Teles&fontSize=70&animation=fadeIn&theme=tokyonight" alt="Banner Davi Teles" />
+
+  <br>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Curso-Ciência%20de%20Dados%20%26%20ML-blue?style=for-the-badge&logo=python&logoColor=white" alt="Curso">
+    <img src="https://img.shields.io/badge/Instituição-CEUB-brightgreen?style=for-the-badge" alt="CEUB">
+  </p>
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/Daviteles123" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 8px; margin: 0 5px;">
+    </a>
+    <a href="https://www.instagram.com/davteles/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 8px; margin: 0 5px;">
+    </a>
+  </p>
+
+  <hr style="border: 1px solid #30363d; width: 50%; margin: 30px auto;">
+
+  <div style="display: flex; justify-content: center; align-items: center; padding: 10px;">
     <a href="https://daviteles077.github.io/portifolio-projeto-final-Bootcamp/" 
        target="_blank" 
        style="display: inline-block; 
-              padding: 16px 40px; 
-              font-size: 18px; 
+              padding: 14px 36px; 
+              font-size: 16px; 
               font-weight: bold; 
               color: #ffffff; 
               background: linear-gradient(135deg, #ff416c, #ff4b2b); 
               border-radius: 8px; 
               text-decoration: none; 
-              box-shadow: 0 8px 20px rgba(255, 65, 108, 0.3); 
+              box-shadow: 0 6px 15px rgba(255, 65, 108, 0.3); 
               text-transform: uppercase; 
               letter-spacing: 1px;
               transition: transform 0.2s;"
@@ -33,6 +54,9 @@
        onmouseout="this.style.transform='scale(1)'">
         🔥 Ver Projeto Final do Bootcamp
     </a>
+  </div>
+</div>   
+   
 
 </div>
 
