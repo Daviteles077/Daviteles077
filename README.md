@@ -13,7 +13,11 @@
 <a href="https://www.instagram.com/davteles/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 50px;">
 ---
-[![Portfólio Live](https://img.shields.io/badge/%F0%9F%8C%90_Visualizar_Portf%C3%B3lio-Acessar%20Site-2ed573?style=for-the-badge&labelColor=2f3542)](https://daviteles077.github.io/portifolio-projeto-final-Bootcamp/)
+<p align="center">
+  <a href="https://daviteles077.github.io/portifolio-projeto-final-Bootcamp/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%92%BC_Acessar_Meu_Portf%C3%B3lio-Clique_Aqui-0078D4?style=for-the-badge" alt="Botão de Acesso">
+  </a>
+</p>
 
 
 
