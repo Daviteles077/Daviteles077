@@ -21,20 +21,6 @@
    <a href="https://daviteles077.github.io/portifolio/" target="_blank" style="background: linear-gradient(135deg, #ff416c, #ff4b2b); color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">
       ABRIR PORTFÓLIO
     </a>
-    href="https://docs.google.com/document/d/1tGNkTwWrDPNE-bU_BwTB_Amxd0OV2S-8sE0u7lZxax0/edit?tab=t.0#heading=h.wjfqprwq7389"   
-    target="_blank"   
-    style="display: inline-block;   
-          padding: 16px 40px;   
-          font-size: 18px;   
-          font-weight: bold;   
-          color: #ffffff;   
-          background: linear-gradient(135deg, #2c3e50, #34495e);   
-          border-radius: 8px;   
-          text-decoration: none;   
-          box-shadow: 0 8px 20px rgba(44, 62, 80, 0.3);   
-          text-transform: uppercase;   
-          letter-spacing: 1px;">
-   📄 Visualizar Curriculo (Google Docs)
   </div>
 </div>
 
